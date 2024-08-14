@@ -1,3 +1,4 @@
 this file is also in branch2 named day3
+Before removing any unwanted files, ensure they are not listed in the 
 What about removing it from a remote source? In my case I'd deleted the local files but also added them to the git ignore list at the same time,
 so when I pushed the commit over the remote files remained in the repo as they weren't being tracked any more
