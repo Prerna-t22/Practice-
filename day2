@@ -1,4 +1,5 @@
 this file is in branch2
 named day2
+named day2
 What about removing it from a remote source? In my case I'd deleted the local files but also added them to the git ignore list at the same time,
 so when I pushed the commit over the remote files remained in the repo as they weren't being tracked any more
